@@ -1,0 +1,24 @@
+-----------------------
+Compliance probabilities
+-----------------------
+Target Name: LF3_DISP_MP
+% compliance: 0.0
+% non-compliance: 1.0
+Target Name: LF3_DISP_MP_VORSPANNUNG
+% compliance: 1.0
+% non-compliance: 0.0
+Target Name: LF3_DISP_MP_ENTLASTUNG
+% compliance: 1.0
+% non-compliance: 0.0
+Target Name: Elastische_Verformung
+% compliance: 0.0
+% non-compliance: 1.0
+
+--------------------
+Statistics
+--------------------
+Nominal    Minimum    Median     Maximum    Sigma      2*Sigma    Spread     Target    
+-5.611     -6.136     -5.624     -5.028     0.120      0.239      1.107      LF3_DISP_MP
+-0.032     -0.037     -0.032     -0.027     0.001      0.002      0.010      LF3_DISP_MP_VORSPANNUNG
+-0.285     -0.526     -0.284     -0.182     0.048      0.096      0.343      LF3_DISP_MP_ENTLASTUNG
+-5.327     -5.637     -5.332     -4.995     0.071      0.141      0.642      Elastische_Verformung
